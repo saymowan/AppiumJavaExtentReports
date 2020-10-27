@@ -1,1 +1,1 @@
-AppiumExtentReports
+AppiumJavaExtentReports
